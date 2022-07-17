@@ -1,7 +1,7 @@
 import blog from "https://deno.land/x/blog@0.4.1/blog.tsx";
 
 blog({
-  title: "源",
+  title: "贰壹叁",
   description: "我的记录",
   avatar: "avatar.png",
   avatarClass: "full",
