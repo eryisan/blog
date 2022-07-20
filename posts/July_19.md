@@ -1,7 +1,8 @@
 ---
 title: 自学
-publish_date:2022-07-20
+publish_date: 2022-07-20
 ---
+
 # 自学
 
 自学过程中从完全不懂到慢慢整理成自己的学习心得和资源。\
@@ -20,7 +21,7 @@ publish_date:2022-07-20
     - [讨论交流](#讨论交流)
   - [身体健康养护](#身体健康养护)
 - [Step by Step Building 100 Days Project](#step-by-step-building-100-days-project)
-- [To do](#to-do)
+- [Done](#done)
     - [English](#english)
     - [待定课程](#待定课程)
 <br>
@@ -31,7 +32,7 @@ publish_date:2022-07-20
 - [CS学校的本科生需要学习哪些课程？](https://www.zhihu.com/question/39232347/answer/1947896480) 
 <br>
 
-<br>[⬆ Back to top](#目录)
+<br>[⬆ Back to top](#自学)
 
 ### 计算机编程后端自学
 
@@ -63,7 +64,7 @@ publish_date:2022-07-20
 - [project-based-learning](https://github.com/practical-tutorials/project-based-learning) 做项目
 <br>
 
-<br>[⬆ Back to top](#目录)
+<br>[⬆ Back to top](#自学)
 
 ### 前端全栈自学
 
@@ -88,17 +89,17 @@ publish_date:2022-07-20
 - [Scrimba](https://scrimba.com/)  互动式视频
 <br>
 
-<br>[⬆ Back to top](#目录)
+<br>[⬆ Back to top](#自学)
 
 ### 英文阅读自学
 
 > **英文阅读·零基础·循序渐进式学习：单词、英语是为了用，不是为了背而背**
 
-| 阶段0 | 0词汇量 | [不背单词](https://bbdc.cn/) | `30-40词/天` `间隔重复长久记忆` `目标4000词汇量` `时间100天` |
+| 阶段0 | 0词汇量 | [不背单词](https://bbdc.cn/) | 30-40词/天 间隔重复长久记忆 目标4000词汇量 时间100天 |
 |--|--|--|--|
 > 单词-看听例句-英文释义-中文释义-答题，(学习⇿复习)，完成后卸载APP
 
-| 阶段1 | 4000词汇量 | [感兴趣的技术英文网站](https://developer.mozilla.org/en-US/docs/Learn) | `每天阅读学习技术` `阅读过程中积累生词` `活到老学到老读到老` |
+| 阶段1 | 4000词汇量 | [感兴趣的技术英文网站](https://developer.mozilla.org/en-US/docs/Learn) | 每天阅读学习技术 阅读过程中积累生词 活到老学到老读到老 |
 |--|--|--|--|
 > 正常：阅读+沙拉查词生词本 <br> 变态加强：生词本+配合Anki间隔重复长久记忆 (学习⇿复习) <br> **突破词汇量瓶颈期。阅读随着时间的增长积累加深，阅读速度由慢至快。熬。**
 - [旧·阅读示例视频](https://www.zhihu.com/zvideo/1275215778070003712)
@@ -107,18 +108,18 @@ publish_date:2022-07-20
 - [关于沙拉查词 知乎回答](https://www.zhihu.com/question/304709202/answer/1742776202)
 - [关于沙拉查词 知乎回答2](https://www.zhihu.com/question/340463485/answer/1873099405)
 
-| 阶段2 | 8000词汇量 | [英文阅读语法障碍](https://www.zhihu.com/question/323015765/answer/1931412244) | `彩云小译·中英对照` `语法和写作书《Great Writing》` |
+| 阶段2 | 8000词汇量 | [英文阅读语法障碍](https://www.zhihu.com/question/323015765/answer/1931412244) | 彩云小译·中英对照 语法和写作书《Great Writing》 |
 |--|--|--|--|
 > 正常：完成语法和写作书《Great Writing》系列1-5； <br> 加强巩固：《English Grammar In Use》或《Grammar In Context》或《English for Everyone:Grammar》
 
-| 阶段3 | 词汇量+++ | [大量阅读](#英文阅读自学) | `大量阅读` `每天每周每月每年不间断阅读` `刻意加深阅读材料难度、深度和广度`|
+| 阶段3 | 词汇量+++ | [大量阅读](#英文阅读自学) | 大量阅读 每天每周每月每年不间断阅读 刻意加深阅读材料难度、深度和广度|
 |--|--|--|--|
 
 - [有什么自学英语好用的书丶教材？](https://www.zhihu.com/question/323015765/answer/1931412244) 
 - 英语听力跟着Youtube做大量编程项目，边看双语字幕边听边查词...
 <br>
 
-<br>[⬆ Back to top](#目录)
+<br>[⬆ Back to top](#自学)
 
 ### 英文阅读工具
 
@@ -133,7 +134,7 @@ publish_date:2022-07-20
 - [沙拉查词+Anki](https://saladict.crimx.com/anki.html) :+1:
 <br>
 
-<br>[⬆ Back to top](#目录)
+<br>[⬆ Back to top](#自学)
 
 ### 讨论交流
 
@@ -144,22 +145,22 @@ publish_date:2022-07-20
 - [0xffff](https://0xffff.one/)
 <br>
 
-<br>[⬆ Back to top](#目录)
+<br>[⬆ Back to top](#自学)
 
 ## 身体健康养护
 
-> **身体是革命的本钱。身体健康才能事业长虹。** `腰背腿优先级最高` `一周3 ~ 5练` `30 ~ 60分钟/练`
+> **身体是革命的本钱。身体健康才能事业长虹。** 腰背腿优先级最高 一周3 ~ 5练 30 ~ 60分钟/练
 - [x] [番茄时钟和久坐提醒](https://getquicker.net/Sharedaction?code=b3b72194-9a89-4696-92bd-08d704390d81)
 - [x] 站立式工作台 :+1:
 - [x] 肺
-  - [ ] **跑步** :+1: `血液循环`
+  - [ ] **跑步** :+1: 血液循环
 - [x] 腰、腹
-  - [ ] [桥](/QIAO.md) :+1: `练腰背和颈椎` `体验一次痛入脖颈，就不会想再体验了`
-  - [ ] 单杠举腿 :+1: `腹部`
+  - [ ] [桥](/QIAO.md) :+1: 练腰背和颈椎 体验一次痛入脖颈，就不会想再体验了
+  - [ ] 单杠举腿 :+1: 腹部
 - [x] 背
-  - [ ] **引体向上** :+1: `背`
+  - [ ] **引体向上** :+1: 背
 - [x] 腿
-  - [ ] **深蹲** :+1: `人老腿先老`
+  - [ ] **深蹲** :+1: 人老腿先老
 - [x] 胸
   - [ ] 卧推
 - [x] 手指、手腕、前臂
@@ -169,7 +170,7 @@ publish_date:2022-07-20
 - [程序员延寿指南 | A programmer's guide to live longer](https://github.com/geekan/HowToLiveLonger)
 <br>
 
-<br>[⬆ Back to top](#目录)
+<br>[⬆ Back to top](#自学)
 # Step by Step Building 100 Days Project
 - HTML & CSS
   - [x] [youtube_clone](https://github.com/eryisan/youtube_clone) Day 1
@@ -181,7 +182,7 @@ publish_date:2022-07-20
   - [ ] [card companies](https://ziontutorial.com/how-to-create-a-modern-website-using-html-and-css-step-by-step-website-tutorial/#C4)
 <br>
 
-# To do
+# Done
 - [x] [慕课网-前端工程师体系课](https://www.imooc.com/) 
 - [x] [FreeCodeCamp](https://www.freecodecamp.org/learn)
     - [x] JavaScript Algorithms and Data Structures
